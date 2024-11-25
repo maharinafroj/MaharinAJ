@@ -892,7 +892,7 @@ main {
 }
 
 .highlight-text {
-  color: var(--orange-yellow-crayola);
+  color:  var(--smoky-black);;
   font-weight: var(--fw-500);
   display: inline-block;
 }
